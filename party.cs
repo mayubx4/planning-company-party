@@ -92,6 +92,7 @@ namespace planning_company_party
             Node n12 = new Node(), n13 = new Node(), n14 = new Node();
 
             //tree structut of the organization
+            //this hierarchy is shown in poster1.pdf
 
             r.name = "r Ayub"; //r is root oof the tree
             r.conviviality = 6;
